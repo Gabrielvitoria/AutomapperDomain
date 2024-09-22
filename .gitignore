@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AutomapperDomain
+/AutomapperDomain/.vs
+/AutomapperDomain/bin/Debug/net8.0
+/AutomapperDomain/obj
+/AutomapperServices/bin/Debug/net8.0
+/AutomapperServices/obj
+/AutoMapperWebAPI/bin/Debug/net8.0
+/AutoMapperWebAPI/obj
