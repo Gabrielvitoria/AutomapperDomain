@@ -1,3 +1,3 @@
-# Projeto demonstrativo de evitar corrupção de Domínio com AutoMapper
+# Projeto demonstrativo de corrupção de Domínio com AutoMapper
 
 ## AutomapperDomain
